@@ -5,6 +5,8 @@
  - [swift projects for beginners](https://www.makeuseof.com/tag/want-make-iphone-apps-6-projects-beginners/)
  - [ioscreator tutorial series](https://github.com/ioscreator/ioscreator)
 
+# Mac
+ - [open unidentified developers mac application](https://www.iclarified.com/28180/how-to-open-applications-from-unidentified-developers-in-mac-os-x-mountain-lion)
 
 # Integrate
  - [carthage tutorial swift](http://studyswift.blogspot.com/2016/04/carthage-tutorial-reachabilityswift.html)
