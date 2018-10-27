@@ -4,6 +4,8 @@
  - [todo list](https://github.com/jogendra/todolist-ios-app)
  - [swift projects for beginners](https://www.makeuseof.com/tag/want-make-iphone-apps-6-projects-beginners/)
  - [ioscreator tutorial series](https://github.com/ioscreator/ioscreator)
+ - [jianshu swift nekit vpn demo](https://www.jianshu.com/p/0b602b21780c)
+ - [swift pass data between view controllers](https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/)
 
 # Mac
  - [open unidentified developers mac application](https://www.iclarified.com/28180/how-to-open-applications-from-unidentified-developers-in-mac-os-x-mountain-lion)
