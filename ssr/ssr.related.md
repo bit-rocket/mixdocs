@@ -18,3 +18,7 @@
 
 ### qrcode python
  - [generate ssr qrcode in python](http://www.alaya.moe/446)
+
+
+### TODO
+ - [ ] update trial to ssr http_simple
