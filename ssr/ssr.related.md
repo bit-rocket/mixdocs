@@ -24,3 +24,4 @@
  - [ ] update trial to ssr http_simple
  - [ ] experiment varified ss/ssr to avoid being detected.
  - [ ] ios/windows/mac/android custom header ssr method
+ - [ ] swift link c/oc libs
