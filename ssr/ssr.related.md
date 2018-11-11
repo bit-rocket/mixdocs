@@ -9,6 +9,7 @@
 
 ### others
  - [ssr qrcode scheme](https://github.com/shadowsocksr-backup/shadowsocks-rss/wiki/SSR-QRcode-scheme)
+ - [ssr obfs ISP analysis](https://sobaigu.com/how-to-use-ssr-obfs.html)
  - [NEKit project](https://github.com/zhuhaow/NEKit)
  - [mac windows android ios ss/ssr client download](https://www.mediafire.com/folder/btkdbx7j9lr98/Shadowsocks_%E7%9B%B8%E5%85%B3%E5%AE%A2%E6%88%B7%E7%AB%AF)
 
