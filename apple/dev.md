@@ -6,6 +6,8 @@
  - [ioscreator tutorial series](https://github.com/ioscreator/ioscreator)
  - [jianshu swift nekit vpn demo](https://www.jianshu.com/p/0b602b21780c)
  - [swift pass data between view controllers](https://learnappmaking.com/pass-data-between-view-controllers-swift-how-to/)
+ - [ios appid cert ppfile generating tutorial 01](https://www.cnblogs.com/lemark/p/4698696.html)
+ - [ios appid cert ppfile generating tutorial 02](https://blog.csdn.net/yishengzhiai005/article/details/54572498)
 
 # Mac
  - [open unidentified developers mac application](https://www.iclarified.com/28180/how-to-open-applications-from-unidentified-developers-in-mac-os-x-mountain-lion)
