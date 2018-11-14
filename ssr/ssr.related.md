@@ -21,6 +21,16 @@
  - [generate ssr qrcode in python](http://www.alaya.moe/446)
 
 
+### Server providers
+ - [evps.me IDC providers list](https://evps.me/idclist)
+
+### SSR & SS
+ - [ssr ss clients links](https://github.com/Tsuk1ko/SS-and-SSR-Collection/blob/master/README.md)
+
+
+### Licences
+ - [safervpn terms of service](https://www.safervpn.com/legal/terms)
+
 ### TODO
  - [ ] update trial to ssr http_simple
  - [ ] experiment varified ss/ssr to avoid being detected.
