@@ -27,6 +27,9 @@
 ### SSR & SS
  - [ssr ss clients links](https://github.com/Tsuk1ko/SS-and-SSR-Collection/blob/master/README.md)
 
+### Sellers
+ - [devpn ss](https://devpn.com/price/)
+
 
 ### Licences
  - [safervpn terms of service](https://www.safervpn.com/legal/terms)
